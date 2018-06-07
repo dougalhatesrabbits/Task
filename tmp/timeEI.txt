@@ -1,0 +1,40 @@
+2018-06-01@02:17:54
+process ExactImage
+real 2.05
+user 0.50
+sys 0.78
+2018-06-01@02:19:05
+process ExactImage
+real 1.60
+user 0.43
+sys 0.79
+2018-06-01@02:27:47
+process ExactImage
+real 1.57
+user 0.43
+sys 0.76
+[37m2018-06-01@02:40:42[1m
+process ExactImage
+real 1.66
+user 0.41
+sys 0.82
+[37m2018-06-01@02:47:49[0m
+process ExactImage
+real 1.60
+user 0.45
+sys 0.76
+[37m2018-06-01@02:52:59[0m
+process ExactImage
+real 2.01
+user 0.44
+sys 0.85
+[37m2018-06-01@02:59:54[1m
+process ExactImage[0m
+real 1.70
+user 0.50
+sys 0.74
+[37m2018-06-01@03:02:22[1m
+process ExactImage[0m
+real 1.59
+user 0.48
+sys 0.72

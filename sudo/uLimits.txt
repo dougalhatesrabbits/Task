@@ -1,0 +1,16 @@
+-c) 0
+-d) unlimited
+(-e) 0
+-f) unlimited
+(-i) 3819
+-l) 64
+-m) unlimited
+(-n) 1024
+-p) 8
+-q) 819200
+(-r) 0
+-s) 8192
+-t) unlimited
+(-u) 3819
+-v) unlimited
+(-x) unlimited

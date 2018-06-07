@@ -1,0 +1,9 @@
+TimeStamp, Real Time(s), USER Non-Kernel Time(s), SYSTEM Kernel Time(s)
+, GraphicsMagick_Convert, 7.67, 4.44, 1.92
+, GraphicsMagick_Convert, 7.58, 4.18, 2.00
+, GraphicsMagick_Convert, 7.82, 4.45, 1.92
+, GraphicsMagick_Convert, 8.43, 4.39, 2.05
+, GraphicsMagick_Convert, 8.22, 4.46, 2.02
+, GraphicsMagick_Convert, 8.05, 4.31, 2.03
+, GraphicsMagick_Convert[0m, 7.92, 4.40, 1.99
+, GraphicsMagick_Convert[0m, 7.56, 4.29, 2.01

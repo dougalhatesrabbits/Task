@@ -1,0 +1,48 @@
+/home/david/Documents/Task/tgt/1 space-thumb_1.jpg JPEG 500x333 500x333+0+0 8-bit sRGB 17.3KB 0.000u 0:00.000
+/home/david/Documents/Task/tgt/1 space-thumb_1.jpg 0 errors
+/home/david/Documents/Task/tgt/1 space-thumb_2.jpg JPEG 500x333 500x333+0+0 8-bit sRGB 17.3KB 0.000u 0:00.000
+/home/david/Documents/Task/tgt/1 space-thumb_2.jpg 0 errors
+/home/david/Documents/Task/tgt/1 space-thumb_3.jpg JPEG 500x333 500x333+0+0 8-bit sRGB 14.6KB 0.000u 0:00.000
+/home/david/Documents/Task/tgt/1 space-thumb_3.jpg 0 errors
+/home/david/Documents/Task/tgt/1 space-thumb_4.jpg JPEG 500x333 500x333+0+0 8-bit sRGB 14.2KB 0.000u 0:00.000
+/home/david/Documents/Task/tgt/1 space-thumb_4.jpg 0 errors
+/home/david/Documents/Task/tgt/1 space-thumb_5.jpg JPEG 500x333 500x333+0+0 8-bit sRGB 14.6KB 0.000u 0:00.000
+/home/david/Documents/Task/tgt/1 space-thumb_5.jpg 0 errors
+/home/david/Documents/Task/tgt/1 space-thumb_6.jpg JPEG 500x500 500x500+0+0 8-bit sRGB 154KB 0.000u 0:00.000
+/home/david/Documents/Task/tgt/1 space-thumb_6.jpg 0 errors
+/home/david/Documents/Task/tgt/2-thumb_1.jpg JPEG 500x281 500x281+0+0 8-bit sRGB 29.4KB 0.000u 0:00.000
+/home/david/Documents/Task/tgt/2-thumb_1.jpg 0 errors
+/home/david/Documents/Task/tgt/2-thumb_2.jpg JPEG 500x281 500x281+0+0 8-bit sRGB 29.4KB 0.000u 0:00.000
+/home/david/Documents/Task/tgt/2-thumb_2.jpg 0 errors
+/home/david/Documents/Task/tgt/2-thumb_3.jpg JPEG 500x281 500x281+0+0 8-bit sRGB 27.7KB 0.000u 0:00.000
+/home/david/Documents/Task/tgt/2-thumb_3.jpg 0 errors
+/home/david/Documents/Task/tgt/2-thumb_4.jpg JPEG 500x281 500x281+0+0 8-bit sRGB 26.3KB 0.000u 0:00.000
+/home/david/Documents/Task/tgt/2-thumb_4.jpg 0 errors
+/home/david/Documents/Task/tgt/2-thumb_5.jpg JPEG 500x281 500x281+0+0 8-bit sRGB 27.7KB 0.000u 0:00.000
+/home/david/Documents/Task/tgt/2-thumb_5.jpg 0 errors
+/home/david/Documents/Task/tgt/2-thumb_6.jpg JPEG 500x500 500x500+0+0 8-bit sRGB 152KB 0.000u 0:00.000
+/home/david/Documents/Task/tgt/2-thumb_6.jpg 0 errors
+/home/david/Documents/Task/tgt/3-thumb_1.jpg JPEG 500x373 500x373+0+0 8-bit sRGB 13KB 0.000u 0:00.000
+/home/david/Documents/Task/tgt/3-thumb_1.jpg 0 errors
+/home/david/Documents/Task/tgt/3-thumb_2.jpg JPEG 500x373 500x373+0+0 8-bit sRGB 13KB 0.000u 0:00.009
+/home/david/Documents/Task/tgt/3-thumb_2.jpg 0 errors
+/home/david/Documents/Task/tgt/3-thumb_3.jpg JPEG 500x373 500x373+0+0 8-bit sRGB 10.3KB 0.000u 0:00.000
+/home/david/Documents/Task/tgt/3-thumb_3.jpg 0 errors
+/home/david/Documents/Task/tgt/3-thumb_4.jpg JPEG 500x373 500x373+0+0 8-bit sRGB 9.82KB 0.000u 0:00.000
+/home/david/Documents/Task/tgt/3-thumb_4.jpg 0 errors
+/home/david/Documents/Task/tgt/3-thumb_5.jpg JPEG 500x373 500x373+0+0 8-bit sRGB 10.3KB 0.000u 0:00.010
+/home/david/Documents/Task/tgt/3-thumb_5.jpg 0 errors
+/home/david/Documents/Task/tgt/3-thumb_6.jpg JPEG 500x500 500x500+0+0 8-bit sRGB 155KB 0.000u 0:00.000
+/home/david/Documents/Task/tgt/3-thumb_6.jpg 0 errors
+/home/david/Documents/Task/tgt/4-thumb_1.jpg JPEG 500x334 500x334+0+0 8-bit sRGB 8.37KB 0.000u 0:00.000
+/home/david/Documents/Task/tgt/4-thumb_1.jpg 0 errors
+/home/david/Documents/Task/tgt/4-thumb_2.jpg JPEG 500x334 500x334+0+0 8-bit sRGB 8.37KB 0.000u 0:00.000
+/home/david/Documents/Task/tgt/4-thumb_2.jpg 0 errors
+/home/david/Documents/Task/tgt/4-thumb_3.jpg JPEG 500x334 500x334+0+0 8-bit sRGB 5.43KB 0.010u 0:00.010
+/home/david/Documents/Task/tgt/4-thumb_3.jpg 0 errors
+/home/david/Documents/Task/tgt/4-thumb_4.jpg JPEG 500x334 500x334+0+0 8-bit sRGB 5.21KB 0.000u 0:00.000
+/home/david/Documents/Task/tgt/4-thumb_4.jpg 0 errors
+/home/david/Documents/Task/tgt/4-thumb_5.jpg JPEG 500x334 500x334+0+0 8-bit sRGB 5.43KB 0.010u 0:00.000
+/home/david/Documents/Task/tgt/4-thumb_5.jpg 0 errors
+/home/david/Documents/Task/tgt/4-thumb_6.jpg JPEG 500x500 500x500+0+0 8-bit sRGB 70.4KB 0.000u 0:00.000
+/home/david/Documents/Task/tgt/4-thumb_6.jpg 0 errors

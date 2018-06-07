@@ -1,0 +1,9 @@
+TimeStamp, Real Time(s), USER Non-Kernel Time(s), SYSTEM Kernel Time(s)
+, ExactImage, 2.05, 0.50, 0.78
+, ExactImage, 1.60, 0.43, 0.79
+, ExactImage, 1.57, 0.43, 0.76
+, ExactImage, 1.66, 0.41, 0.82
+, ExactImage, 1.60, 0.45, 0.76
+, ExactImage, 2.01, 0.44, 0.85
+, ExactImage[0m, 1.70, 0.50, 0.74
+, ExactImage[0m, 1.59, 0.48, 0.72

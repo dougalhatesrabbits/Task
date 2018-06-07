@@ -1,0 +1,9 @@
+TimeStamp, Real Time(s), USER Non-Kernel Time(s), SYSTEM Kernel Time(s)
+, ImageMagick_Mogrify, 8.11, 4.19, 2.21
+, ImageMagick_Mogrify, 8.06, 4.68, 1.87
+, ImageMagick_Mogrify, 8.03, 4.41, 1.94
+, ImageMagick_Mogrify, 8.22, 4.48, 1.87
+, ImageMagick_Mogrify, 9.50, 3.99, 2.84
+, ImageMagick_Mogrify, 10.45, 4.42, 2.56
+, ImageMagick_Mogrify[0m, 7.80, 4.45, 1.78
+, ImageMagick_Mogrify[0m, 8.01, 4.59, 1.93

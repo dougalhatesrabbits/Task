@@ -1,0 +1,40 @@
+2018-06-01@02:17:14
+process ImageMagick_Mogrify
+real 8.11
+user 4.19
+sys 2.21
+2018-06-01@02:18:26
+process ImageMagick_Mogrify
+real 8.06
+user 4.68
+sys 1.87
+2018-06-01@02:27:08
+process ImageMagick_Mogrify
+real 8.03
+user 4.41
+sys 1.94
+[37m2018-06-01@02:40:03[1m
+process ImageMagick_Mogrify
+real 8.22
+user 4.48
+sys 1.87
+[37m2018-06-01@02:47:09[0m
+process ImageMagick_Mogrify
+real 9.50
+user 3.99
+sys 2.84
+[37m2018-06-01@02:52:18[0m
+process ImageMagick_Mogrify
+real 10.45
+user 4.42
+sys 2.56
+[37m2018-06-01@02:59:14[1m
+process ImageMagick_Mogrify[0m
+real 7.80
+user 4.45
+sys 1.78
+[37m2018-06-01@03:01:42[1m
+process ImageMagick_Mogrify[0m
+real 8.01
+user 4.59
+sys 1.93

@@ -1,0 +1,23 @@
+[37m2018-06-01@03:01:32 [0m	./callTask.sh 18611 [1m[32mStart...[0m
+[37m
+2018-06-01@03:01:32 [0m	./callTask.sh > task.sh 18611 [1m[32mStart...[0m
+[37m
+2018-06-01@03:02:31 [0m	./callTask.sh > task.sh 18611 [1m[32mDone[0m
+[37m
+2018-06-01@03:02:31 [0m	Validate Tests
+			--------------
+[37m2018-06-01@03:02:31[0m[32m	Post files - validated
+[37m2018-06-01@03:02:31[0m[32m	Post files - validated
+[37m2018-06-01@03:02:32[0m[32m	Post formats - validated
+[37m2018-06-01@03:02:33[0m[32m	Post formats - validated
+[37m2018-06-01@03:02:34[0m[32m	Errors - validated[0m
+[37m2018-06-01@03:02:35[0m[32m	Errors - validated[0m
+
+Printing summaries...
+[37mFri  1 Jun 03:02:35 BST 2018 [0m	Summaries are in /home/david/Documents/Task/results/*summary.csv
+[37m
+2018-06-01@03:02:35 [0m	./callTask.sh 18611 [1m[32mAll Done[0m
+-----------------------------------------------------
+
+./callTask.sh took [1m63 [0mseconds
+

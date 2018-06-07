@@ -1,0 +1,40 @@
+2018-06-01@02:17:34
+process GraphicsMagick_Batch
+real 9.83
+user 4.01
+sys 2.96
+2018-06-01@02:18:45
+process GraphicsMagick_Batch
+real 8.23
+user 4.62
+sys 2.04
+2018-06-01@02:27:27
+process GraphicsMagick_Batch
+real 7.91
+user 4.45
+sys 2.07
+[37m2018-06-01@02:40:22[1m
+process GraphicsMagick_Batch
+real 8.95
+user 4.73
+sys 2.07
+[37m2018-06-01@02:47:29[0m
+process GraphicsMagick_Batch
+real 7.99
+user 4.55
+sys 2.00
+[37m2018-06-01@02:52:39[0m
+process GraphicsMagick_Batch
+real 10.53
+user 4.89
+sys 2.24
+[37m2018-06-01@02:59:34[1m
+process GraphicsMagick_Batch[0m
+real 8.24
+user 4.45
+sys 2.15
+[37m2018-06-01@03:02:02[1m
+process GraphicsMagick_Batch[0m
+real 8.04
+user 4.56
+sys 2.00

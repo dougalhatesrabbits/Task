@@ -1,0 +1,40 @@
+2018-06-01@02:17:24
+process GraphicsMagick_Convert
+real 7.67
+user 4.44
+sys 1.92
+2018-06-01@02:18:36
+process GraphicsMagick_Convert
+real 7.58
+user 4.18
+sys 2.00
+2018-06-01@02:27:17
+process GraphicsMagick_Convert
+real 7.82
+user 4.45
+sys 1.92
+[37m2018-06-01@02:40:12[1m
+process GraphicsMagick_Convert
+real 8.43
+user 4.39
+sys 2.05
+[37m2018-06-01@02:47:19[0m
+process GraphicsMagick_Convert
+real 8.22
+user 4.46
+sys 2.02
+[37m2018-06-01@02:52:29[0m
+process GraphicsMagick_Convert
+real 8.05
+user 4.31
+sys 2.03
+[37m2018-06-01@02:59:24[1m
+process GraphicsMagick_Convert[0m
+real 7.92
+user 4.40
+sys 1.99
+[37m2018-06-01@03:01:52[1m
+process GraphicsMagick_Convert[0m
+real 7.56
+user 4.29
+sys 2.01

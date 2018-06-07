@@ -1,0 +1,40 @@
+2018-06-01@02:17:04
+process ImageMagick_Convert
+real 9.54
+user 3.66
+sys 3.53
+2018-06-01@02:18:16
+process ImageMagick_Convert
+real 8.02
+user 4.51
+sys 1.99
+2018-06-01@02:26:57
+process ImageMagick_Convert
+real 9.53
+user 4.02
+sys 2.74
+[37m2018-06-01@02:39:53[1m
+process ImageMagick_Convert
+real 9.48
+user 3.56
+sys 3.54
+[37m2018-06-01@02:46:59[1m
+process ImageMagick_Convert
+real 8.23
+user 4.29
+sys 2.37
+[37m2018-06-01@02:52:08[1m
+process ImageMagick_Convert
+real 8.50
+user 4.53
+sys 2.24
+[37m2018-06-01@02:59:04[1m
+process ImageMagick_Convert[0m
+real 9.01
+user 3.64
+sys 3.26
+[37m2018-06-01@03:01:32[1m
+process ImageMagick_Convert[0m
+real 8.33
+user 4.35
+sys 2.23

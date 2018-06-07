@@ -1,0 +1,9 @@
+TimeStamp, Real Time(s), USER Non-Kernel Time(s), SYSTEM Kernel Time(s)
+, GraphicsMagick_Batch, 9.83, 4.01, 2.96
+, GraphicsMagick_Batch, 8.23, 4.62, 2.04
+, GraphicsMagick_Batch, 7.91, 4.45, 2.07
+, GraphicsMagick_Batch, 8.95, 4.73, 2.07
+, GraphicsMagick_Batch, 7.99, 4.55, 2.00
+, GraphicsMagick_Batch, 10.53, 4.89, 2.24
+, GraphicsMagick_Batch[0m, 8.24, 4.45, 2.15
+, GraphicsMagick_Batch[0m, 8.04, 4.56, 2.00

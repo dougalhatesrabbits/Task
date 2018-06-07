@@ -1,0 +1,24 @@
+/home/david/Documents/Task/tgt/1 space-thumb_1.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 500x333, frames 3
+/home/david/Documents/Task/tgt/1 space-thumb_2.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 500x333, frames 3
+/home/david/Documents/Task/tgt/1 space-thumb_3.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 500x333, frames 3
+/home/david/Documents/Task/tgt/1 space-thumb_4.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 500x333, frames 3
+/home/david/Documents/Task/tgt/1 space-thumb_5.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 500x333, frames 3
+/home/david/Documents/Task/tgt/1 space-thumb_6.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 500x500, frames 3
+/home/david/Documents/Task/tgt/2-thumb_1.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 500x281, frames 3
+/home/david/Documents/Task/tgt/2-thumb_2.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 500x281, frames 3
+/home/david/Documents/Task/tgt/2-thumb_3.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 500x281, frames 3
+/home/david/Documents/Task/tgt/2-thumb_4.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 500x281, frames 3
+/home/david/Documents/Task/tgt/2-thumb_5.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 500x281, frames 3
+/home/david/Documents/Task/tgt/2-thumb_6.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 500x500, frames 3
+/home/david/Documents/Task/tgt/3-thumb_1.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 500x373, frames 3
+/home/david/Documents/Task/tgt/3-thumb_2.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 500x373, frames 3
+/home/david/Documents/Task/tgt/3-thumb_3.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 500x373, frames 3
+/home/david/Documents/Task/tgt/3-thumb_4.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 500x373, frames 3
+/home/david/Documents/Task/tgt/3-thumb_5.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 500x373, frames 3
+/home/david/Documents/Task/tgt/3-thumb_6.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 500x500, frames 3
+/home/david/Documents/Task/tgt/4-thumb_1.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 500x334, frames 3
+/home/david/Documents/Task/tgt/4-thumb_2.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 500x334, frames 3
+/home/david/Documents/Task/tgt/4-thumb_3.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 500x334, frames 3
+/home/david/Documents/Task/tgt/4-thumb_4.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 500x334, frames 3
+/home/david/Documents/Task/tgt/4-thumb_5.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 500x334, frames 3
+/home/david/Documents/Task/tgt/4-thumb_6.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, baseline, precision 8, 500x500, frames 3

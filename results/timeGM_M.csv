@@ -1,0 +1,9 @@
+TimeStamp, Real Time(s), USER Non-Kernel Time(s), SYSTEM Kernel Time(s)
+, GraphicsMagick_Mogrify, 8.73, 4.13, 2.08
+, GraphicsMagick_Mogrify, 7.53, 4.50, 1.76
+, GraphicsMagick_Mogrify, 7.03, 4.32, 1.69
+, GraphicsMagick_Mogrify, 7.29, 4.06, 1.98
+, GraphicsMagick_Mogrify, 7.15, 4.25, 1.74
+, GraphicsMagick_Mogrify, 7.96, 4.46, 1.90
+, GraphicsMagick_Mogrify[0m, 7.29, 4.41, 1.74
+, GraphicsMagick_Mogrify[0m, 7.12, 4.32, 1.72
