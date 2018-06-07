@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: David Brooke for Third Light
+# Author: David Brooke
 #
 # Date: 25.5.2018
 #
